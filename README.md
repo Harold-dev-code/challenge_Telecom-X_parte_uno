@@ -113,5 +113,5 @@ Dentro del programa de formación ONE - Oracle Next Education de Oracle y Alura 
 
 ## ⚖️ Licencia
 
-Este proyecto está bajo la Licencia MIT - mira el archivo `LICENSE` (si existe en tu repositorio) para detalles.
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
 
